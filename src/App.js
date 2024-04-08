@@ -1,3 +1,4 @@
+import Footer from "./components/Footer";
 import FrequentlyAsked from "./components/FrequentlyAsked";
 import Hero from "./components/Hero";
 import Navbar from "./components/Navbar";
@@ -11,6 +12,7 @@ function App() {
     <Hero/>
     <Services/>
     <FrequentlyAsked/>
+    <Footer/>
     </>
   );
 }
