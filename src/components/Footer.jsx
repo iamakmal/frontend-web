@@ -3,7 +3,7 @@ import React from 'react'
 export default function Footer() {
   return (
     <>
-<footer className="footer md:grid-rows-2 p-10 bg-main text-white px-[20px]">
+<footer className="footer md:grid-rows-2 lg:grid-rows-1 p-10 bg-main text-white px-[20px]">
   <nav className="md:col-span-2">
   <img className="h-[25px] w-[238.89px] px-10 mb-[20px]" src="/Logo.png" alt="logo"/>
   <p className="text-[16px] leading-[19.2px] font-normal">Your goal is our target. Not anything in between. We use<br/> online marketing platforms and tools to achieve single<br/> objective - your business results.</p>

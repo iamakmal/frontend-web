@@ -4,9 +4,9 @@ export default function Services() {
   return (
     <div className="mt-[60px]">
 
-    <div className="grid gap-1 md:grid-cols-2 w-[335px] h-[572.82px] justify-center items-center m-5 md:w-[688px] md:h-[275px]">
+    <div className="grid gap-[20px] lg:gap-[108px] md:grid-cols-2 w-[335px] h-[572.82px] mx-auto m-5 md:w-[688px] md:h-[275px] lg:w-[896px] lg:h-[346px]">
     <div>
-    <img src="./service1.png" className="h-[275.82px] w-[275px] mx-[30px]" alt="web"/>
+    <img src="./service1.png" className="h-[275.82px] w-[275px] mx-auto" alt="web"/>
     </div>
     <div className="text-center md:text-left">
         <h1 className="text-main font-semibold text-[27px] leading-[33px] mb-[20px]">Web & Mobile App Development</h1>
@@ -15,9 +15,9 @@ export default function Services() {
     </div>
     </div>
 
-    <div className="grid gap-1 md:grid-cols-2 w-[335px] h-[572.82px] justify-center items-center m-5 mt-[60px] md:w-[688px] md:h-[275px] md:px-[40px]">
+    <div className="grid gap-[20px] lg:gap-[108px] md:grid-cols-2 w-[335px] h-[572.82px] mx-auto m-5 mt-[60px] md:w-[688px] md:h-[275px] lg:w-[896px] lg:h-[346px]">
     <div className="md:order-2">
-    <img src="./service2.png" className="h-[276px] w-[275px] mx-[30px]" alt="digital"/>
+    <img src="./service2.png" className="h-[276px] w-[275px] mx-auto" alt="digital"/>
     </div>
     <div className="text-center md:text-left md:order-1">
         <h1 className="text-main font-semibold text-[27px] leading-[33px] mb-[20px]">Digital Strategy Consulting</h1>
