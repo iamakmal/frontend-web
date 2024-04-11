@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function FrequentlyAsked() {
     return (
-        <div className="mt-[60px] mx-[20px]">
+        <div className="mt-[60px] mx-[20px] md:mx-[40px]">
         <h1 className="text-main font-semibold text-[27px] leading-[33px] text-center mb-[28px]">Frequently asked questions</h1>
         <div className="collapse collapse-plus bg-base-200 mb-[15px]">
                 <input type="radio" name="my-accordion-3" />
